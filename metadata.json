@@ -1,0 +1,15 @@
+{
+  "name": "anashikkar-profile",
+  "version": "0.1.0",
+  "author": "anashikkar",
+  "summary": "this is profile module",
+  "license": "Apache-2.0",
+  "source": "git@github.com:anashikkar/puppet-profile2.git",
+  "project_page": "https://github.com/anashikkar/puppet-profile2",
+  "issues_url": "https://github.com/anashikkar/puppet-profile2/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
